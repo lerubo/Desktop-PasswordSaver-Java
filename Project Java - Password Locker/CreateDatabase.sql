@@ -56,12 +56,13 @@ INSERT INTO t_admins (userAdmin,passwordAdmin) VALUES('353BA90F8C0B3E0F355A3D6C9
 INSERT INTO t_accounts (forename,surname,dob,username,masterkey,a1,a2,a3,responsible) VALUES('Alvaro','Ruiz Arciniegas','31/03/1962','74C47DECC64FD921299567F5F6467860DC9179CE2E723048C184FDF2FD6A32936470ECC3D639B6947E99F9C42735ED20552BE14FDA24084AD79627195ACA3FB1','74C47DECC64FD921299567F5F6467860DC9179CE2E723048C184FDF2FD6A32936470ECC3D639B6947E99F9C42735ED20552BE14FDA24084AD79627195ACA3FB1','nose','tampocose','esasi',1);
 INSERT INTO t_accounts (forename,surname,dob,username,masterkey,a1,a2,a3,responsible) VALUES('Steven','Ruiz Boyle','20/04/1988','C7451E893211272F718A077226081539BC932BB90E010230B19163FAFB257FB391DBC567FBC12C09DDA8822FE56767680C924BC22AC01321907B5FA1D9DEC164','C7451E893211272F718A077226081539BC932BB90E010230B19163FAFB257FB391DBC567FBC12C09DDA8822FE56767680C924BC22AC01321907B5FA1D9DEC164','nose','tampocose','esasi',1);
 INSERT INTO t_accounts (forename,surname,dob,username,masterkey,a1,a2,a3,responsible) VALUES('Leandro','Ruiz Boyle','12/02/1991','02C6A396E9E75FA78DAC83D551732DA4BDE5585FB3801356BA77CAD173036918D085D6FA4AADDCBCA6A9853C5FFD59EF8AD5CF095D5FFE02900C2724E4FBF2E0','02C6A396E9E75FA78DAC83D551732DA4BDE5585FB3801356BA77CAD173036918D085D6FA4AADDCBCA6A9853C5FFD59EF8AD5CF095D5FFE02900C2724E4FBF2E0','nose','tampocose','esasi',1);
+INSERT INTO t_accounts (forename,surname,dob,username,masterkey,a1,a2,a3,responsible) VALUES('George','Smith','28/05/1985','B14361404C078FFD549C03DB443C3FEDE2F3E534D73F78F77301ED97D4A436A9FD9DB05EE8B325C0AD36438B43FEC8510C204FC1C1EDB21D0941C00E9E2C1CE2','A9E52E106C38AE712FC91008E277689B2050E9BCAD300EB386F679EA51AEB87E3B8E82100CA04F969CE0219B8D388CA71ACA2ED686E134E97480AD949494FB55','nose','tampocose','esasi',1);
 
-INSERT INTO t_passwords (ida_fk,passname,pass,description) VALUES(1,'Aldi','55555555','Aldi online passwords');
-INSERT INTO t_passwords (ida_fk,passname,pass,description) VALUES(1,'Mercadona','66666666','Mercadona online passwords');
-INSERT INTO t_passwords (ida_fk,passname,pass,description) VALUES(2,'Tesco','77777777','Tesco online passwords');
-INSERT INTO t_passwords (ida_fk,passname,pass,description) VALUES(2,'Asda','111111111','Asda online passwords');
-INSERT INTO t_passwords (ida_fk,passname,pass,description) VALUES(1,'Lidl','22222222','Lidl online passwords');
-INSERT INTO t_passwords (ida_fk,passname,pass,description) VALUES(2,'Sainsburies','52354354354','Sainsnburys online passwords');
+-- INSERT INTO t_passwords (ida_fk,passname,pass,description) VALUES(1,'Aldi','55555555','Aldi online passwords');
+-- INSERT INTO t_passwords (ida_fk,passname,pass,description) VALUES(1,'Mercadona','66666666','Mercadona online passwords');
+-- INSERT INTO t_passwords (ida_fk,passname,pass,description) VALUES(2,'Tesco','77777777','Tesco online passwords');
+-- INSERT INTO t_passwords (ida_fk,passname,pass,description) VALUES(2,'Asda','111111111','Asda online passwords');
+-- INSERT INTO t_passwords (ida_fk,passname,pass,description) VALUES(1,'Lidl','22222222','Lidl online passwords');
+-- INSERT INTO t_passwords (ida_fk,passname,pass,description) VALUES(2,'Sainsburies','52354354354','Sainsnburys online passwords');
 
 

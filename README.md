@@ -17,7 +17,14 @@ The report was built with other two group members (James, Lewis)
 RUNNING THE APLICATION:
  - You will need to open MySQL and run the database script to be  able to test the application
  - once the MYSQL Server is active and the database has been creted then the application can be run
+ - Enter the credentials in the main application and create some passwords
+ - query the database to check that the password is securly encrypted
 
 PASSWORDS
-- In the Admin application is: USER: admin PASSWORD: admin
-- In the main application is: (Create a user from the admin app)
+- In the main application is:
+	USER:         user 
+	PASSWORD:        0Y2GHp
+
+- In the Admin application is:
+	 USER:          admin 
+	 PASSWORD:          admin
