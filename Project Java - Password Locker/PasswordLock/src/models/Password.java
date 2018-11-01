@@ -91,8 +91,4 @@ public class Password {
     public String toString() {
         return "Password{" + "pid=" + pid + ", aid=" + aid + ", passName=" + passName + ", pass=" + pass + ", secretkey=" + secretkey + ", passDescription=" + passDescription + '}';
     }
-
-   
-    
-    
 }
